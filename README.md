@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Eric 👋
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=ericolaf&theme=dracula"
